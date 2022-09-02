@@ -13,7 +13,7 @@ if (num >= 1 && num <= 7)
     {
         Console.WriteLine("Нет");
     }
-    if (num >= 6 && num <= 7)
+    else
     {
         Console.WriteLine("Да");
     }
